@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Virtualization 2.0.md",
+                "file": "MERN USER AUTHENTICATION.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Virtualization 2.0"
+              "title": "MERN USER AUTHENTICATION"
             }
           }
         ]
@@ -184,5 +184,11 @@
     }
   },
   "active": "5f476faced9b546c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Django.md",
+    "MERN USER AUTHENTICATION.md",
+    "MVC.md",
+    "C.md",
+    "Virtualization 2.0.md"
+  ]
 }
